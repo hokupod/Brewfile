@@ -10,18 +10,22 @@ brew autoconf
 brew gdbm
 brew git
 brew gmp
+brew go
 brew openssl
 brew pcre
+brew peco
 brew pkg-config
 brew rbenv
 brew rbenv-gem-rehash
 brew rbenv-gemset
 brew readline
 brew ruby-build
+brew tree
 brew zsh
 
 # App Store applications
 appstore 1Password
+appstore Airmail 2
 appstore Astro
 appstore Better Rename 9
 appstore Caffeine
