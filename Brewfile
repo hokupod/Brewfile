@@ -8,14 +8,17 @@ brew brew-file
 # Other Homebrew packages
 brew autoconf
 brew gdbm
+brew gettext
 brew git
 brew gmp
 brew go
+brew ntfs-3g
 brew openssl
 brew pcre
 brew peco
 brew pkg-config
 brew rbenv
+brew rbenv-default-gems
 brew rbenv-gem-rehash
 brew rbenv-gemset
 brew readline
@@ -25,6 +28,7 @@ brew zsh
 
 # App Store applications
 appstore 1Password
+appstore Affinity Designer
 appstore Airmail 2
 appstore Astro
 appstore Better Rename 9
@@ -44,11 +48,15 @@ appstore Jedit X Plus
 appstore JPEGmini
 appstore Keynote
 appstore Memory Magic
+appstore MemoZou
 appstore Microsoft Remote Desktop
+appstore Monity
 appstore Numbers
 appstore Pages
+appstore Paste
 appstore Pixelmator
 appstore Pocket
+appstore popCalendar
 appstore PopClip
 appstore Premium Fonts
 appstore Pushbullet
