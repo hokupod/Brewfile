@@ -1,6 +1,10 @@
 
 # tap repositories and their packages
 
+## homebrew/fuse
+tap homebrew/fuse
+brew ntfs-3g
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
@@ -12,7 +16,7 @@ brew gettext
 brew git
 brew gmp
 brew go
-brew ntfs-3g
+brew node
 brew openssl
 brew pcre
 brew peco
@@ -35,9 +39,11 @@ appstore Better Rename 9
 appstore Caffeine
 appstore CalendarFree
 appstore CLCL Lite
+appstore Compressor
 appstore DaisyDisk
 appstore Dash
 appstore Divvy
+appstore DragonDrop
 appstore GarageBand
 appstore Hype2
 appstore iMovie
@@ -60,6 +66,7 @@ appstore popCalendar
 appstore PopClip
 appstore Premium Fonts
 appstore Pushbullet
+appstore Reditr
 appstore Scapple
 appstore Sip
 appstore Sketch
