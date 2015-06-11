@@ -16,6 +16,7 @@ brew gettext
 brew git
 brew gmp
 brew go
+brew jenkins
 brew node
 brew openssl
 brew pcre
@@ -42,6 +43,7 @@ appstore CLCL Lite
 appstore Compressor
 appstore DaisyDisk
 appstore Dash
+appstore Day One
 appstore Divvy
 appstore DragonDrop
 appstore GarageBand
@@ -57,11 +59,14 @@ appstore Memory Magic
 appstore MemoZou
 appstore Microsoft Remote Desktop
 appstore Monity
+appstore Noizio
 appstore Numbers
+appstore OmniFocus
 appstore Pages
 appstore Paste
 appstore Pixelmator
 appstore Pocket
+appstore Pomodoro Time Pro
 appstore popCalendar
 appstore PopClip
 appstore Premium Fonts
@@ -73,7 +78,6 @@ appstore Sketch
 appstore Skitch
 appstore SourceTree
 appstore Sunrise
-appstore Tadam
 appstore Telegram
 appstore Tembo
 appstore Translate Tab
