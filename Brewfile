@@ -28,6 +28,7 @@ brew rbenv-gem-rehash
 brew rbenv-gemset
 brew readline
 brew ruby-build
+brew ssh-copy-id
 brew tree
 brew zsh
 
@@ -44,9 +45,11 @@ appstore Compressor
 appstore DaisyDisk
 appstore Dash
 appstore Day One
+appstore DCommander
 appstore Divvy
 appstore DragonDrop
 appstore GarageBand
+appstore Go2Shell
 appstore Hype2
 appstore iMovie
 appstore iRamDisk
