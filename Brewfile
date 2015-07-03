@@ -1,6 +1,20 @@
 
 # tap repositories and their packages
 
+## caskroom/cask
+tap caskroom/cask
+brew brew-cask
+cask betterzipql
+cask qlcolorcode
+cask qlimagesize
+cask qlmarkdown
+cask qlprettypatch
+cask qlstephen
+cask quicklook-csv
+cask quicklook-json
+cask suspicious-package
+cask webpquicklook
+
 ## homebrew/fuse
 tap homebrew/fuse
 brew ntfs-3g
@@ -11,25 +25,35 @@ brew brew-file
 
 # Other Homebrew packages
 brew autoconf
+brew cmake
 brew gdbm
 brew gettext
 brew git
 brew gmp
+brew gnutls
 brew go
 brew jenkins
+brew libgcrypt
+brew libgpg-error
+brew libpng
+brew libtasn1
+brew nettle
 brew node
 brew openssl
 brew pcre
 brew peco
 brew pkg-config
+brew pngquant
 brew rbenv
 brew rbenv-default-gems
 brew rbenv-gem-rehash
 brew rbenv-gemset
 brew readline
+brew redis
 brew ruby-build
 brew ssh-copy-id
 brew tree
+brew weechat --with-ruby --with-python --with-perl
 brew zsh
 
 # App Store applications
@@ -48,6 +72,7 @@ appstore Day One
 appstore DCommander
 appstore Divvy
 appstore DragonDrop
+appstore ExSqueeze it
 appstore GarageBand
 appstore Go2Shell
 appstore Hype2
@@ -74,13 +99,15 @@ appstore popCalendar
 appstore PopClip
 appstore Premium Fonts
 appstore Pushbullet
+appstore RapidCopy
 appstore Reditr
 appstore Scapple
 appstore Sip
 appstore Sketch
 appstore Skitch
+appstore Slack
 appstore SourceTree
-appstore Sunrise
+appstore Sunrise Calendar
 appstore Telegram
 appstore Tembo
 appstore Translate Tab
