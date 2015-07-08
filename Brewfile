@@ -114,3 +114,4 @@ appstore Translate Tab
 appstore Transmit
 appstore Tree 2
 appstore Xcode
+appstore YoruFukurou
