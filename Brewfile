@@ -15,6 +15,10 @@ cask quicklook-json
 cask suspicious-package
 cask webpquicklook
 
+## homebrew/binary
+tap homebrew/binary
+brew kindlegen
+
 ## homebrew/fuse
 tap homebrew/fuse
 brew ntfs-3g
