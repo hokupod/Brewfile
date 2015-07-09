@@ -13,6 +13,8 @@ cask qlstephen
 cask quicklook-csv
 cask quicklook-json
 cask suspicious-package
+cask vagrant
+cask virtualbox
 cask webpquicklook
 
 ## homebrew/binary
@@ -29,7 +31,9 @@ brew brew-file
 
 # Other Homebrew packages
 brew autoconf
+brew boot2docker
 brew cmake
+brew docker
 brew gdbm
 brew gettext
 brew git
