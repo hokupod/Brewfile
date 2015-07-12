@@ -34,17 +34,22 @@ brew autoconf
 brew boot2docker
 brew cmake
 brew docker
+brew freetype
 brew gdbm
 brew gettext
 brew git
 brew gmp
 brew gnutls
 brew go
+brew imagemagick
 brew jenkins
+brew jpeg
 brew libgcrypt
 brew libgpg-error
 brew libpng
 brew libtasn1
+brew libtiff
+brew libtool
 brew nettle
 brew node
 brew openssl
@@ -62,6 +67,7 @@ brew ruby-build
 brew ssh-copy-id
 brew tree
 brew weechat --with-ruby --with-python --with-perl
+brew xz
 brew zsh
 
 # App Store applications
@@ -95,6 +101,7 @@ appstore Memory Magic
 appstore MemoZou
 appstore Microsoft Remote Desktop
 appstore Monity
+appstore Murasaki
 appstore Noizio
 appstore Numbers
 appstore OmniFocus
