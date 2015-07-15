@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask
 cask betterzipql
+cask kobito
 cask qlcolorcode
 cask qlimagesize
 cask qlmarkdown
@@ -87,6 +88,7 @@ appstore DCommander
 appstore Divvy
 appstore DragonDrop
 appstore ExSqueeze it
+appstore Flux V
 appstore GarageBand
 appstore Go2Shell
 appstore Hype2
@@ -101,6 +103,7 @@ appstore Memory Magic
 appstore MemoZou
 appstore Microsoft Remote Desktop
 appstore Monity
+appstore Motion
 appstore Murasaki
 appstore Noizio
 appstore Numbers
@@ -118,6 +121,7 @@ appstore RapidCopy
 appstore Reditr
 appstore Scapple
 appstore Sip
+appstore SiteSucker
 appstore Sketch
 appstore Skitch
 appstore Slack
