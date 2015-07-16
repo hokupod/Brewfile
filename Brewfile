@@ -26,6 +26,11 @@ brew kindlegen
 tap homebrew/fuse
 brew ntfs-3g
 
+## peco/peco
+tap peco/peco
+brew migemogrep
+brew peco
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
@@ -55,7 +60,6 @@ brew nettle
 brew node
 brew openssl
 brew pcre
-brew peco
 brew pkg-config
 brew pngquant
 brew rbenv
