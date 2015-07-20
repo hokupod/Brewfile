@@ -39,6 +39,7 @@ brew brew-file
 brew autoconf
 brew boot2docker
 brew cmake
+brew ctags
 brew docker
 brew freetype
 brew gdbm
@@ -68,6 +69,7 @@ brew rbenv-gem-rehash
 brew rbenv-gemset
 brew readline
 brew redis
+brew rsense
 brew ruby-build
 brew ssh-copy-id
 brew tree
