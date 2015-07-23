@@ -57,6 +57,7 @@ brew libpng
 brew libtasn1
 brew libtiff
 brew libtool
+brew lua
 brew nettle
 brew node
 brew openssl
@@ -73,6 +74,7 @@ brew rsense
 brew ruby-build
 brew ssh-copy-id
 brew tree
+brew vim --with-lua
 brew weechat --with-ruby --with-python --with-perl
 brew xz
 brew zsh
