@@ -77,6 +77,7 @@ brew tree
 brew vim --with-lua
 brew weechat --with-ruby --with-python --with-perl
 brew xz
+brew youtube-dl
 brew zsh
 
 # App Store applications
@@ -101,6 +102,7 @@ appstore GarageBand
 appstore Go2Shell
 appstore Hype2
 appstore iMovie
+appstore Integrity
 appstore iRamDisk
 appstore iTaskX
 appstore iThoughtsX
