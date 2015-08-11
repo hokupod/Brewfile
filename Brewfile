@@ -22,6 +22,9 @@ cask webpquicklook
 tap homebrew/binary
 brew kindlegen
 
+## homebrew/dupes
+tap homebrew/dupes
+
 ## homebrew/fuse
 tap homebrew/fuse
 brew ntfs-3g
@@ -73,6 +76,7 @@ brew redis
 brew rsense
 brew ruby-build
 brew ssh-copy-id
+brew tidy-html5
 brew tree
 brew vim --with-lua
 brew weechat --with-ruby --with-python --with-perl
