@@ -54,6 +54,7 @@ brew go
 brew imagemagick
 brew jenkins
 brew jpeg
+brew lame
 brew libgcrypt
 brew libgpg-error
 brew libpng
