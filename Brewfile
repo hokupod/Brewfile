@@ -44,6 +44,8 @@ brew boot2docker
 brew cmake
 brew ctags
 brew docker
+brew faac
+brew ffmpeg
 brew freetype
 brew gdbm
 brew gettext
@@ -55,12 +57,14 @@ brew imagemagick
 brew jenkins
 brew jpeg
 brew lame
+brew libav
 brew libgcrypt
 brew libgpg-error
 brew libpng
 brew libtasn1
 brew libtiff
 brew libtool
+brew libvo-aacenc
 brew lua
 brew nettle
 brew node
@@ -68,6 +72,7 @@ brew openssl
 brew pcre
 brew pkg-config
 brew pngquant
+brew python3
 brew rbenv
 brew rbenv-default-gems
 brew rbenv-gem-rehash
@@ -76,11 +81,14 @@ brew readline
 brew redis
 brew rsense
 brew ruby-build
+brew sqlite
 brew ssh-copy-id
 brew tidy-html5
 brew tree
 brew vim --with-lua
 brew weechat --with-ruby --with-python --with-perl
+brew x264
+brew xvid
 brew xz
 brew youtube-dl
 brew zsh
