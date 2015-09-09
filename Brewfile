@@ -86,8 +86,8 @@ brew sqlite
 brew ssh-copy-id
 brew tidy-html5
 brew tree
-brew vim --with-lua --with-lua
-brew weechat --with-ruby --with-python --with-perl --with-ruby --with-python --with-perl
+brew vim --with-lua
+brew weechat --with-ruby --with-python --with-perl
 brew x264
 brew xvid
 brew xz
