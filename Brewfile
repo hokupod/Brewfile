@@ -6,6 +6,7 @@ tap caskroom/cask
 brew brew-cask
 cask betterzipql
 cask kobito
+cask mysqlworkbench
 cask qlcolorcode
 cask qlimagesize
 cask qlmarkdown
@@ -85,8 +86,8 @@ brew sqlite
 brew ssh-copy-id
 brew tidy-html5
 brew tree
-brew vim --with-lua
-brew weechat --with-ruby --with-python --with-perl
+brew vim --with-lua --with-lua
+brew weechat --with-ruby --with-python --with-perl --with-ruby --with-python --with-perl
 brew x264
 brew xvid
 brew xz
@@ -113,6 +114,7 @@ appstore ExSqueeze it
 appstore Flux V
 appstore GarageBand
 appstore Go2Shell
+appstore Hitman Absolution - Elite Edition
 appstore Hype2
 appstore iMovie
 appstore Integrity
