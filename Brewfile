@@ -97,7 +97,6 @@ brew x264
 brew xvid
 brew xz
 brew youtube-dl
-brew z
 brew zsh
 
 # App Store applications
