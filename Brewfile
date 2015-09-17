@@ -25,6 +25,7 @@ brew kindlegen
 
 ## homebrew/dupes
 tap homebrew/dupes
+brew rsync
 
 ## homebrew/fuse
 tap homebrew/fuse
@@ -43,6 +44,7 @@ brew brew-file
 brew autoconf
 brew boot2docker
 brew cmake
+brew cocot
 brew ctags
 brew docker
 brew faac
@@ -59,6 +61,7 @@ brew jenkins
 brew jpeg
 brew lame
 brew libav
+brew libevent
 brew libgcrypt
 brew libgpg-error
 brew libpng
@@ -80,18 +83,21 @@ brew rbenv-gem-rehash
 brew rbenv-gemset
 brew readline
 brew redis
+brew rmtrash
 brew rsense
 brew ruby-build
 brew sqlite
 brew ssh-copy-id
 brew tidy-html5
+brew tmux
 brew tree
-brew vim --with-lua
+brew vim --with-lua --with-lua
 brew weechat --with-ruby --with-python --with-perl
 brew x264
 brew xvid
 brew xz
 brew youtube-dl
+brew z
 brew zsh
 
 # App Store applications
