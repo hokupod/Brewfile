@@ -19,6 +19,10 @@ cask vagrant
 cask virtualbox
 cask webpquicklook
 
+## codefirst/sparkling
+tap codefirst/sparkling
+brew brew-sparkling
+
 ## homebrew/binary
 tap homebrew/binary
 brew kindlegen
@@ -70,6 +74,7 @@ brew libtiff
 brew libtool
 brew libvo-aacenc
 brew lua
+brew mobiledevice
 brew nettle
 brew node
 brew openssl
@@ -103,6 +108,7 @@ brew zsh
 appstore 1Password
 appstore Affinity Designer
 appstore Airmail 2
+appstore Alternote
 appstore Astro
 appstore Better Rename 9
 appstore Caffeine
