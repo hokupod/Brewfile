@@ -23,6 +23,10 @@ cask webpquicklook
 tap codefirst/sparkling
 brew brew-sparkling
 
+## coteditor/coteditor
+tap coteditor/coteditor
+brew cot
+
 ## homebrew/binary
 tap homebrew/binary
 brew kindlegen
@@ -49,6 +53,7 @@ brew autoconf
 brew boot2docker
 brew cmake
 brew cocot
+brew coreutils
 brew ctags
 brew docker
 brew faac
@@ -96,7 +101,7 @@ brew ssh-copy-id
 brew tidy-html5
 brew tmux
 brew tree
-brew vim --with-lua
+brew vim --with-lua --with-lua --with-lua --with-lua --with-lua --with-lua
 brew weechat --with-ruby --with-python --with-perl
 brew x264
 brew xvid
@@ -115,6 +120,7 @@ appstore Caffeine
 appstore CalendarFree
 appstore CLCL Lite
 appstore Compressor
+appstore CotEditor
 appstore DaisyDisk
 appstore Dash
 appstore Day One
