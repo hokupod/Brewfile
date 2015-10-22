@@ -51,17 +51,21 @@ brew brew-file
 # Other Homebrew packages
 brew autoconf
 brew boot2docker
+brew c-ares
 brew cmake
 brew cocot
 brew coreutils
 brew ctags
+brew d-bus
 brew docker
 brew faac
 brew ffmpeg
 brew freetype
 brew gdbm
+brew geoip
 brew gettext
 brew git
+brew glib
 brew gmp
 brew gnutls
 brew go
@@ -71,6 +75,7 @@ brew jpeg
 brew lame
 brew libav
 brew libevent
+brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libpng
@@ -87,6 +92,7 @@ brew pcre
 brew pkg-config
 brew pngquant
 brew python3
+brew qt
 brew rbenv
 brew rbenv-default-gems
 brew rbenv-gem-rehash
@@ -101,8 +107,9 @@ brew ssh-copy-id
 brew tidy-html5
 brew tmux
 brew tree
-brew vim --with-lua --with-lua --with-lua --with-lua --with-lua --with-lua
+brew vim --with-lua
 brew weechat --with-ruby --with-python --with-perl
+brew wireshark --with-qt
 brew x264
 brew xvid
 brew xz
