@@ -48,8 +48,13 @@ brew peco
 tap rcmdnk/file
 brew brew-file
 
+## tkengo/highway
+tap tkengo/highway
+brew highway
+
 # Other Homebrew packages
 brew autoconf
+brew automake
 brew boot2docker
 brew c-ares
 brew cmake
@@ -69,6 +74,7 @@ brew glib
 brew gmp
 brew gnutls
 brew go
+brew gperftools
 brew imagemagick
 brew jenkins
 brew jpeg
@@ -109,6 +115,7 @@ brew tmux
 brew tree
 brew vim --with-lua
 brew weechat --with-ruby --with-python --with-perl
+brew wget
 brew wireshark --with-qt
 brew x264
 brew xvid
