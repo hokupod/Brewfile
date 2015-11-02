@@ -65,6 +65,7 @@ brew d-bus
 brew docker
 brew faac
 brew ffmpeg
+brew fontconfig
 brew freetype
 brew gdbm
 brew geoip
@@ -80,6 +81,7 @@ brew jenkins
 brew jpeg
 brew lame
 brew libav
+brew libcaca
 brew libevent
 brew libffi
 brew libgcrypt
@@ -91,6 +93,7 @@ brew libtool
 brew libvo-aacenc
 brew lua
 brew mobiledevice
+brew mplayer --with-libcaca
 brew nettle
 brew node
 brew openssl
@@ -120,6 +123,7 @@ brew wireshark --with-qt
 brew x264
 brew xvid
 brew xz
+brew yasm
 brew youtube-dl
 brew zsh
 
