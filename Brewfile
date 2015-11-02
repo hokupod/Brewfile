@@ -44,6 +44,10 @@ tap peco/peco
 brew migemogrep
 brew peco
 
+## rcmdnk/file
+tap rcmdnk/file
+brew brew-file
+
 ## tkengo/highway
 tap tkengo/highway
 brew highway
