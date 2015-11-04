@@ -116,7 +116,7 @@ brew ssh-copy-id
 brew tidy-html5
 brew tmux
 brew tree
-brew vim --with-lua --with-lua
+brew vim --with-lua
 brew weechat --with-ruby --with-python --with-perl
 brew wget
 brew wireshark --with-qt
