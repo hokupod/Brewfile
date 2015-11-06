@@ -111,7 +111,7 @@ brew redis
 brew rmtrash
 brew rsense
 brew ruby-build
-brew sqlite
+brew sqlite --with-functions
 brew ssh-copy-id
 brew tidy-html5
 brew tmux
@@ -189,6 +189,7 @@ appstore SourceTree
 appstore Sunrise Calendar
 appstore Telegram
 appstore Tembo
+appstore Todoist
 appstore Translate Tab
 appstore Transmit
 appstore Tree 2
