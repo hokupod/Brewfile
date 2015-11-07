@@ -112,6 +112,7 @@ brew rmtrash
 brew rsense
 brew ruby-build
 brew sqlite --with-functions
+brew sqlitebrowser
 brew ssh-copy-id
 brew tidy-html5
 brew tmux
