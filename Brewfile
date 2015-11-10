@@ -55,7 +55,6 @@ brew highway
 # Other Homebrew packages
 brew autoconf
 brew automake
-brew boot2docker
 brew c-ares
 brew cmake
 brew cocot
