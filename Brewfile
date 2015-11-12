@@ -143,7 +143,6 @@ appstore DaisyDisk
 appstore Dash
 appstore Day One
 appstore DCommander
-appstore Divvy
 appstore DragonDrop
 appstore ExSqueeze it
 appstore Flux V
