@@ -76,7 +76,6 @@ brew gnutls
 brew go
 brew gperftools
 brew imagemagick
-brew jenkins
 brew jpeg
 brew lame
 brew libav
@@ -116,7 +115,7 @@ brew ssh-copy-id
 brew tidy-html5
 brew tmux
 brew tree
-brew vim --with-lua
+brew vim --with-lua --with-lua
 brew weechat --with-ruby --with-python --with-perl
 brew wget
 brew wireshark --with-qt
@@ -146,6 +145,7 @@ appstore DCommander
 appstore DragonDrop
 appstore ExSqueeze it
 appstore Flux V
+appstore FreeMan
 appstore GarageBand
 appstore Go2Shell
 appstore Hitman Absolution - Elite Edition
@@ -158,7 +158,6 @@ appstore iThoughtsX
 appstore Jedit X Plus
 appstore JPEGmini
 appstore Keynote
-appstore Memory Magic
 appstore MemoZou
 appstore Microsoft Remote Desktop
 appstore Monity
