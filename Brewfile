@@ -159,6 +159,7 @@ appstore Jedit X Plus
 appstore JPEGmini
 appstore Keynote
 appstore MemoZou
+appstore MenuBar Stats
 appstore Microsoft Remote Desktop
 appstore Monity
 appstore Motion
