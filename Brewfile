@@ -135,19 +135,16 @@ appstore Astro
 appstore Better Rename 9
 appstore Caffeine
 appstore CalendarFree
-appstore CLCL Lite
 appstore Compressor
 appstore CotEditor
 appstore DaisyDisk
 appstore Dash
 appstore Day One
-appstore DCommander
 appstore DragonDrop
 appstore ExSqueeze it
 appstore Flux V
 appstore FreeMan
 appstore GarageBand
-appstore Go2Shell
 appstore Hitman Absolution - Elite Edition
 appstore Hype2
 appstore iMovie
