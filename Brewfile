@@ -157,7 +157,6 @@ appstore JPEGmini
 appstore Keynote
 appstore MemoZou
 appstore MenuBar Stats
-appstore Microsoft Remote Desktop
 appstore Monity
 appstore Motion
 appstore Murasaki
@@ -173,6 +172,7 @@ appstore popCalendar
 appstore PopClip
 appstore Premium Fonts
 appstore Pushbullet
+appstore Quiver
 appstore RapidCopy
 appstore Reditr
 appstore Scapple
