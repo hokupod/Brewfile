@@ -5,7 +5,6 @@
 tap caskroom/cask
 brew brew-cask
 cask betterzipql
-cask kobito
 cask mysqlworkbench
 cask qlcolorcode
 cask qlimagesize
