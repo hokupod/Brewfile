@@ -154,6 +154,7 @@ appstore iThoughtsX
 appstore Jedit X Plus
 appstore JPEGmini
 appstore Keynote
+appstore Kobito
 appstore MemoZou
 appstore MenuBar Stats
 appstore Monity
