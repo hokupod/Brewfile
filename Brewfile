@@ -107,6 +107,7 @@ brew readline
 brew redis
 brew rmtrash
 brew rsense
+brew ruby
 brew ruby-build
 brew sqlite --with-functions
 brew sqlitebrowser
