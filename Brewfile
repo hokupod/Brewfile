@@ -179,7 +179,6 @@ appstore Reditr
 appstore Scapple
 appstore Sip
 appstore SiteSucker
-appstore Sketch
 appstore Skitch
 appstore Slack
 appstore SourceTree
