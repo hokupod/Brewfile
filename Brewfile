@@ -109,6 +109,7 @@ brew rmtrash
 brew rsense
 brew ruby
 brew ruby-build
+brew source-highlight
 brew sqlite --with-functions
 brew sqlitebrowser
 brew ssh-copy-id
